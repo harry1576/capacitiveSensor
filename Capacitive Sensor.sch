@@ -133,12 +133,6 @@ Text GLabel 6300 3700 2    50   Output ~ 0
 555_Output
 Wire Wire Line
 	6150 3700 6300 3700
-Text Notes 4600 4000 0    50   ~ 0
-C
-Text GLabel 4900 3900 0    50   Output ~ 0
-C+
-Text GLabel 4900 4000 0    50   Output ~ 0
-C-
 Wire Wire Line
 	4900 4000 4950 4000
 Wire Wire Line
@@ -190,4 +184,10 @@ Text GLabel 7300 3550 3    50   Output ~ 0
 Wire Wire Line
 	7300 3550 7300 3450
 NoConn ~ 6150 3800
+Text Notes 4600 4000 0    50   ~ 0
+C
+Text GLabel 4900 4000 0    50   Output ~ 0
+C-
+Text GLabel 4900 3900 0    50   Output ~ 0
+C+
 $EndSCHEMATC

@@ -1,0 +1,6 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"REF**,REF**";"muwave_polygon";2;"muwave_polygon";;;
+2;"U1";"SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm";1;"TLC555";;;
+3;"R2,R1";"R_0603_1608Metric";2;"R";;;
+4;"J1";"Molex_CLIK-Mate_502382-0370_1x03-1MP_P1.25mm_Vertical";1;"Conn_01x03";;;
+5;"C1";"C_0603_1608Metric";1;"C";;;
